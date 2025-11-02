@@ -1,0 +1,13 @@
+name = "Medieval Origins Revival"
+filename = "medievalorigins-fabric-1.20.1-6.7.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0db28e2f055b44d05e2c4e23409a1fc793badcf5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7173230
+project-id = 897171

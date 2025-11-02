@@ -1,0 +1,13 @@
+name = "Fantasy Weapons (Medieval Series)"
+filename = "fantasy_weapons-fabric-0.3.1-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ba1d3b5113ddfd7bdfe4056d1af093f7aaf48e61"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6094253
+project-id = 1090102

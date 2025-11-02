@@ -1,0 +1,13 @@
+name = "Torches 'n' Trinkets"
+filename = "torchesntrinkets-0.2.1-1.20.1-4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "67651546ae21e084cdf9b4558656989f51234c76"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5753029
+project-id = 1020747
